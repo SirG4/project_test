@@ -1,0 +1,32 @@
+# Environment variables
+.env
+*.env
+
+# Logs
+*.log
+build.log
+
+# Dependencies
+node_modules/
+dist/
+
+# IDE files
+.vscode/
+.idea/
+
+# Build artifacts
+build/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# Misc
+.DS_Store
+*.pem
+*.key
+*.cert
