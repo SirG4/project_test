@@ -16,7 +16,6 @@ function App() {
     <div className="min-h-screen bg-gray-100">
       <div className="p-4 bg-white shadow-sm">
         <div className="max-w-4xl mx-auto flex justify-between items-center">
-          <h1 className="text-xl font-bold">Code Challenge Platform</h1>
           <p className="text-sm text-gray-600">{status}</p>
         </div>
       </div>
